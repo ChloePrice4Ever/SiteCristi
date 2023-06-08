@@ -1,0 +1,242 @@
+.slide1693-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.slide1693-slide1693 {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.slide1693-image1 {
+  top: -62px;
+  left: -224px;
+  width: 880px;
+  height: 1173px;
+  position: absolute;
+}
+.slide1693-group8 {
+  top: 81px;
+  left: 1321px;
+  width: 531px;
+  height: 720px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.slide1693-text {
+  top: 209px;
+  left: 19px;
+  color: rgba(0, 0, 0, 1);
+  width: 500px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Light;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.slide1693-vector {
+  top: 315px;
+  left: 458px;
+  width: 34px;
+  height: 34px;
+  position: absolute;
+}
+.slide1693-line5 {
+  top: 625.3675537109375px;
+  left: 13px;
+  width: 506px;
+  height: 1px;
+  position: absolute;
+}
+.slide1693-rectangle2 {
+  top: 648px;
+  left: 0px;
+  width: 531px;
+  height: 72px;
+  position: absolute;
+  border-radius: 50px;
+}
+.slide1693-text02 {
+  top: 648px;
+  left: 139px;
+  color: rgba(52, 46, 29, 1);
+  width: 253px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Light;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.slide1693-text04 {
+  top: 309px;
+  left: 19px;
+  color: rgba(217, 217, 217, 1);
+  width: 258px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.slide1693-text05 {
+  color: rgba(217, 217, 217, 1);
+}
+.slide1693-text06 {
+  color: rgba(176, 175, 175, 1);
+}
+.slide1693-line3 {
+  top: 333.6162109375px;
+  left: 23.10302734375px;
+  width: 71px;
+  height: 1px;
+  position: absolute;
+}
+.slide1693-lart1 {
+  top: 0px;
+  left: 94px;
+  width: 335px;
+  height: 160px;
+  position: absolute;
+}
+.slide1693-rectangle12 {
+  top: 181px;
+  left: 578px;
+  width: 678px;
+  height: 718px;
+  position: absolute;
+}
+.slide1693-rectangle17 {
+  top: 181px;
+  left: 96px;
+  width: 681px;
+  height: 718px;
+  position: absolute;
+}
+.slide1693-rectangle21 {
+  top: 871px;
+  left: 1321px;
+  width: 531px;
+  height: 72px;
+  position: absolute;
+  border-radius: 50px;
+}
+.slide1693-text08 {
+  top: 874px;
+  left: 1429px;
+  color: rgba(140, 123, 113, 1);
+  width: 322px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Light;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.slide1693-group1 {
+  top: 40px;
+  left: 592px;
+  width: 752px;
+  height: 41px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.slide1693-text10 {
+  color: rgba(0, 0, 0, 1);
+  width: 98px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Oranienbaum;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.slide1693-text12 {
+  top: 4px;
+  left: 200px;
+  color: rgba(0, 0, 0, 1);
+  width: 128px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Oranienbaum;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.slide1693-text14 {
+  top: 4px;
+  left: 430px;
+  color: rgba(0, 0, 0, 1);
+  width: 82px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Oranienbaum;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.slide1693-text16 {
+  top: 4px;
+  left: 596px;
+  color: rgba(0, 0, 0, 1);
+  width: 156px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Oranienbaum;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.slide1693-rectangle28 {
+  top: 324px;
+  left: 50px;
+  width: 46px;
+  height: 146px;
+  position: absolute;
+}
